@@ -1,4 +1,4 @@
-# Cosmx_WTA
+# Cosmx WTA Workshop
 
 ## What we will do in this short analysis:
 - Explore a spatial single-cell pancreas dataset
